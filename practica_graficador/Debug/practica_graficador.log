@@ -1,0 +1,18 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  practica_graficador.cpp
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(38): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(68): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(134): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ariel\desktop\plotter\practica_graficador\Graficas.h(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  practica_graficador.vcxproj -> C:\Users\ARIEL\Desktop\plotter\Debug\practica_graficador.exe
+  practica_graficador.vcxproj -> C:\Users\ARIEL\Desktop\plotter\Debug\practica_graficador.pdb (Full PDB)
